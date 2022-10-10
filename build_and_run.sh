@@ -1,0 +1,1 @@
+go build cmd/smart-meter-to-prom/main.go && sudo ./main  --debug=true 
